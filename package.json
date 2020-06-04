@@ -1,0 +1,20 @@
+{
+  "name": "TendieBot",
+  "version": "0.1.0",
+  "description": "TBD",
+  "main": "bot.js",
+  "author": "John Rust",
+  "dependencies": {
+    "-": "0.0.1",
+    "@discordjs/opus": "^0.3.2",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "github:discordjs/opus",
+    "node-gyp": "^5.1.1",
+    "rebuild": "^0.1.2",
+    "save": "^2.4.0",
+    "winston": "^3.2.1",
+    "ytdl-core": "^3.0.0"
+  }
+}
